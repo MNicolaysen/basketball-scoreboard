@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: #1b244a;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 22px;
+    margin-left: 22px;
+    margin-top: 8px;
+}
+
+h3 {
+    color: #EEEEEE;
+    font-family: verdana;
+    font-weight: bold;
+    margin-top: 35px;
+    margin-bottom: 0;
+    font-size: 20px;
+}
+
+p {
+    background-color: #080001;
+    color: #F94F6D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Cursed Timer ULiL;
+    height: 60px;
+    width: 75px;
+    border-radius: 2px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 40px;
+}
+
+button {
+    color: #9AABD8;
+    background: none;
+    border-color: #9AABD8;
+    border: solid;
+    border-radius: 2px;
+    width: 22px;
+    height: 22px;
+    font-size: 7px;
+    margin-top: 12px;
+}
